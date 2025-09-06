@@ -54,21 +54,22 @@ CGPA: 8.08/10
 
 ### GitHub Stats
 
-[![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvishhnu12&show_icons=true&theme=radical)](https://github.com/iamvishhnu12)
+[![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvishnu12&show_icons=true&theme=radical)](https://github.com/iamvishnu12)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvishhnu12&layout=compact&theme=radical)](https://github.com/iamvishhnu12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvishnu12&layout=compact&theme=radical)](https://github.com/iamvishnu12)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvishhnu12&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamvishnu12&theme=dark)
 
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamvishhnu12&theme=react-dark)](https://github.com/iamvishhnu12)
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamvishnu12&theme=react-dark)](https://github.com/iamvishnu12)
 
 ---
 
 ### Find me on
 
-[LinkedIn](https://www.linkedin.com/in/vishnu-reddy-a-m-333971308/) | [GitHub](https://github.com/iamvishhnu12) | [Portfolio](https://iamvishnu12.github.io/portfolio/)
+[LinkedIn](https://www.linkedin.com/in/vishnu-reddy-a-m-333971308/) | [GitHub](https://github.com/iamvishnu12) | [Portfolio](https://iamvishnu12.github.io/portfolio/)
 
 ---
 
 Thank you for visiting my profile! Feel free to connect or explore my projects.
+
 
